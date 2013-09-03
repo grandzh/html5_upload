@@ -1,0 +1,11 @@
+.dashboard_target_box {
+	background-image: url(Upload-Folder-Graphite-icon.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 200px;
+	width: 200px;
+	text-align: center;
+}
+.dashboard_target_box.over{
+	border:1px solid #ccc;	
+}
